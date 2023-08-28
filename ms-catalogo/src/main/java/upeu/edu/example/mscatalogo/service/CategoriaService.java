@@ -1,6 +1,6 @@
-package com.example.mscatalogo.service;
+package upeu.edu.example.mscatalogo.service;
 
-import com.example.mscatalogo.entity.Categoria;
+import upeu.edu.example.mscatalogo.entity.Categoria;
 
 import java.util.List;
 import java.util.Optional;

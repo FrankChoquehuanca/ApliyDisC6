@@ -1,4 +1,4 @@
-package com.example.mscatalogo.entity;
+package upeu.edu.example.mscatalogo.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -13,4 +13,5 @@ public class Categoria {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
     private String nombre;
+
 }

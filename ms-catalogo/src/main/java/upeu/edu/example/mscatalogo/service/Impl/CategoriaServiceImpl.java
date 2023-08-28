@@ -1,10 +1,10 @@
-package com.example.mscatalogo.service.Impl;
+package upeu.edu.example.mscatalogo.service.Impl;
 
-import com.example.mscatalogo.entity.Categoria;
-import com.example.mscatalogo.repository.CategoriaRepository;
-import com.example.mscatalogo.service.CategoriaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import upeu.edu.example.mscatalogo.entity.Categoria;
+import upeu.edu.example.mscatalogo.repository.CategoriaRepository;
+import upeu.edu.example.mscatalogo.service.CategoriaService;
 
 import java.util.List;
 import java.util.Optional;

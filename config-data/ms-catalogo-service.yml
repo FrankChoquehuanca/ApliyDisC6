@@ -1,11 +1,13 @@
 server:
-  port: ${PORT:${SERVER_PORT:0}}
+  port: 8081
+
 springdoc:
   api-docs:
     enabled: true
   swagger-ui:
     enabled: true
     path: /doc/swagger-ui.html
+
 spring:
   jpa:
     hibernate.ddl-auto: update
@@ -13,13 +15,6 @@ spring:
     show-sql: true
   datasource:
     driverClassName: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/ms_configuracion
+    url: jdbc:mysql://localhost:3306/ms_catalogo
     username: root
     password:
-
-
-
-
-
-
-
