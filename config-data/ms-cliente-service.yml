@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 8082
 
 springdoc:
   api-docs:
@@ -15,7 +15,7 @@ spring:
     show-sql: true
   datasource:
     driverClassName: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/ms_catalogo
+    url: jdbc:mysql://localhost:3306/ms_cliente
     username: root
     password:
 eureka:
