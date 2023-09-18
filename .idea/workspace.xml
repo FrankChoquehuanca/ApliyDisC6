@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d44b2904-5309-4092-89f9-a5dd7e64ceb0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ApliyDisC6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-data/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-data/ms-catalogo-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/ms-catalogo-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-catalogo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-catalogo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-catalogo/src/main/java/upeu/edu/example/mscatalogo/MsCatalogoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-catalogo/src/main/java/upeu/edu/example/mscatalogo/controller/CategoriaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-catalogo/src/main/java/upeu/edu/example/mscatalogo/entity/Categoria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-catalogo/src/main/java/upeu/edu/example/mscatalogo/repository/CategoriaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-catalogo/src/main/java/upeu/edu/example/mscatalogo/service/CategoriaService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-catalogo/src/main/java/upeu/edu/example/mscatalogo/service/Impl/CategoriaServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-catalogo/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-catalogo/src/test/java/upeu/edu/example/mscatalogo/MsCatalogoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-config-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-config-server/src/main/java/com/example/msconfigserver/MsConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ms-config-server/src/main/java/com/example/msconfigserver/MsConfigServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-config-server/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2UvswTnZvNWYJBlP90d7iXSlhDU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/ApliyDisC6/config-data",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d44b2904-5309-4092-89f9-a5dd7e64ceb0" name="Changes" comment="" />
+      <created>1693831626573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693831626573</updated>
+      <workItem from="1693831627570" duration="1760000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
